@@ -1,0 +1,65 @@
+- company: Behavox LTD
+  position: Senior DevOps Engineer
+  duration: Aug 2022 — Present
+  summary: 'Canada, <a href="https://www.behavox.com/">behavox.com</a><br/>
+  Supporting and evolving company Machine Learning infrastructure: k8s clusters, AWS services, Terraform repos.<br/><br/>
+  Implemented ChatOps bot service which provides the ability to interact with ML infrastructure via Slack bot.<br/><br/>
+  Reducing costs, implementing new tools, researching and installing external solutions.
+  <ul class="resume-item-list">
+    <li>Software: AWS, Gitlab CI, Terraform, Vault, Prometheus, Sonar, JIRA, Confluence, IDEA</li>
+    <li>Technologies: Kubernetes, Helm charts, GIT, Bash, Python</li>
+  </ul>'
+
+- company: Parsable
+  position: Senior DevOps Engineer
+  duration: Dec 2020 — Aug 2022
+  summary: 'Bay Area / Canada, <a href="https://parsable.com/">parsable.com</a><br/>
+  Supported and evolved company infrastructure, including k8s clusters, Kong, AWS routing, and AWS/Azure services.<br/><br/>
+  Terraformed and supported AWS infrastructure: Route53, S3, EC2s, DMS, MSK, RDS, EKS, ECS, networking, DocumentDB, ElastiCache, IAM.
+  Terraformed and supported Azure infrastructure: CosmosDB, Databricks, EventHubs, Azure DevOps.<br/><br/>
+  Moved 100% of company backend from EC2 instances into k8s: established the process from the image build till production deployment.
+  Implemented Instant Environments service which provides the ability to create a ready-to-use development environment in one click.<br/><br/>
+  Fully remote team: 5 in USA/Canada and me in SPb.
+  <ul class="resume-item-list">
+    <li>Software: AWS, Spinnaker, Terraform / Terragrunt, Jenkins, Vault, Datadog, Kong, GitHub, Pganalyze, Atlantis, Sonar, JIRA, Confluence, Okta, Pritunl, IDEA</li>
+    <li>Technologies: Kubernetes, Helm charts, GIT, SQL, Bash, Python, Docker</li>
+  </ul>'
+
+- company: TangoMe LLC
+  position: Software Development Engineer in Test
+  duration: Mar 2016 — Dec 2020
+  summary: '<a href="https://www.tango.me/">tango.me</a><br/>
+  Testing environments setup and support: local, Amazon, Google Cloud. Server components dockerization: moved the whole testing infrastructure to Kubernetes.<br/><br/>
+  Created deployment bot which serves requests to deploy/restart/change properties of microservices. Certifying components (pre-production approval). Writing tools for internal use. Testing: Black / White / Gray box. Automation (Python-based framework + scripting).<br/><br/>
+  4-member QA team: 3 in USA and me in SPb. Business trips to headquarters in Mountain View, California.
+  Participated in the following stages of development: test case writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, and defect verification. Both manual and automated regression testing.
+  <ul class="resume-item-list">
+    <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard/Codecollab, Artifactory, Grafana</li>
+    <li>Technologies: GIT, SVN, SQL, Java, Bash, Python, CDN, DNS, Docker, Kubernetes</li>
+  </ul>
+  Trained and guided newcomers, involved in the interview process.'
+
+- company: Grid Dynamics (E-commerce)
+  position: Automation QA Engineer
+  duration:  Jun 2013 — Mar 2016
+  summary: '<a href="https://www.griddynamics.com/">griddynamics.com</a><br/>
+  Software Testing - Black box / White box / Gray box. Automation (FitNesse framework + Java + scripting). 15-member QA team, remote interaction with business analysts. Agile methodology with 2-week iterations.<br/>
+  Participated in several business trips to California.<br/><br/>
+  Fully participated in each stage of the testing cycle: requirements analysis, documentation review, test case writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, and defect verification. Rich experience with the Continuous Integration process. Participated in code and test review process.
+  <ul class="resume-item-list">
+    <li>Software: Mingle, VersionOne, FitNesse, JIRA, Jenkins, IDEA, CodeCollab, ReviewBoard, Confluence, Splunk, Nexus</li>
+    <li>Technologies: SVN, GIT+Gerrit, SQL, Java, Bash, Python, CI, Docker</li>
+  </ul>'
+
+- company: Motorola Solutions (Software Development)
+  position: Automation QA Engineer
+  duration: Sep 2011 — Jun 2013
+  summary: '<a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
+  Responsibilities: Software Testing - Black box / White box / Gray box. Automation (C / C++, bash). Code coverage analysis (gcov/lcov). Teamwork, remote interaction with others. Setting up special equipment.<br/><br/>
+  Participation in each stage of the testing cycle: requirements analysis, design, and documentation review (SRS, ICD, MSC diagrams), development of test cases, implementation of test cases (automation), setting up the test environment, testing (API, Stress, GUI, etc), bug reports issuing, interaction with developers, verification and validation.
+  <ul class="resume-item-list">
+    <li>Software: HP Quality Center, IBM Rational (ClearQuest, ClearCase), MS Office</li>
+    <li>The last project: network service (under Linux) which performs network connection switching. White & Gray box testing</li>
+    <li>Previous project: similar service under Windows / Windows Mobile / Android (Black box testing)</li>
+  </ul>
+  Achievements: Wrote the whole set of tests (API) and fully automated it. Showed a good performance and productivity.'
