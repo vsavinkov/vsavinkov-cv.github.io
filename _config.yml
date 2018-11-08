@@ -1,5 +1,5 @@
 title: "Viacheslav Savinkov"
-# description: "QA Engineer // SDET"
+description: "QA Engineer // SDET"
 markdown: kramdown
 sass:
   sass_dir: _sass
@@ -7,12 +7,9 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Viacheslav Savinkov"
 resume_title:                   "QA Engineer // SDET"
-resume_contact_email:           "viacheslav@savinkov.me"
-resume_contact_telephone:       "8(962)709-58-36"
-resume_contact_address:         ""
 resume_header_contact_info:     "St. Petersburg, Russia // viacheslav@savinkov.me // 8(962)709-58-36"
 display_header_contact_info:    "true"
-resume_header_intro:            "<p>28 years, born on 28 December 1989. IT, Internet, Telecom. Employment: full time, work schedule: full day</p>"
+resume_header_intro:            "28 years, born on 28 December 1989.<br/>Employment: full time, work schedule: full day."
 resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
@@ -24,4 +21,3 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/viacheslav-savinkov/"
   resume_website_url:           "https://savinkov.me"
 resume_print_social_links:      true
-resume_theme:                   default
