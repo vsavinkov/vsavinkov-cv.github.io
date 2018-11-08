@@ -5,7 +5,9 @@
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <header class="page-header">
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar" itemprop="image">
+        <a href="images/avatar.jpg">
+          <img src="images/avatar.jpg" alt="my photo" class="avatar" itemprop="image">
+        </a>
         {% endif %}
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
         {% if site.display_header_contact_info == 'true' %}
