@@ -1,0 +1,11 @@
+- skill: Software
+  description:  Jira • Confluence • Jenkins • Codecollab • ReviewBoard • FitNesse • Gerrit • Intellij IDEA • MS Excel • Gradle • Amazon EC2
+
+- skill: Languages
+  description: Java • SQL • Bash • Python
+
+- skill: Technologies
+  description: Docker • Kubernetes • SVN • Git • Gerrit • Linux • MacOS • Google Cloud
+
+- skill: Testing
+  description: Automated tests • White Box • Black Box
