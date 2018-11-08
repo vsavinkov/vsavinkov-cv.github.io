@@ -1,11 +1,22 @@
 - skill: Software
   description:  Jira • Confluence • Jenkins • Codecollab • ReviewBoard • FitNesse • Gerrit • Intellij IDEA • MS Excel • Gradle • Amazon EC2
 
-- skill: Languages
+- skill: Programming Languages
   description: Java • SQL • Bash • Python
 
+- skill: Languages
+  description: Native Russian • Fluent spoken and written English
+
 - skill: Technologies
-  description: Docker • Kubernetes • SVN • Git • Gerrit • Linux • MacOS • Google Cloud
+  description: Docker • Kubernetes • SVN • Git/Gerrit • Linux • MacOS • Google Cloud
 
 - skill: Testing
-  description: Automated tests • White Box • Black Box
+  description: 'Automated tests • White Box • Black Box. <br/><br/>
+  Experienced in full software testing cycle - from requirement analysis till verifying bugfixes. Test cases writing and implementation.'
+
+- skill: Personal characteristics
+  description: 'Conflictless • Punctual • Able to work in a team • Stress-resistant • Responsible • Career growth and professional development -oriented • Able to keep business style of corporate communication (e.g. emails) in both English and Russian languages. <br/><br/>
+  Schengen visa till mid 2019, USA B1/B2 visa till mid 2020.'
+
+- skill: What I expect from employer
+  description: Opportunity for professional development and training, interesting projects and adequate management. Business trips opportunity would be a plus.

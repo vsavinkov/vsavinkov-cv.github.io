@@ -43,7 +43,6 @@
       </section>
       {% endif %}
       {% if site.resume_section_education %}
-      <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
           <h2>Education</h2>
@@ -145,16 +144,6 @@
             <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
             {% endfor %}
           </ul>
-        </div>
-      </section>
-      {% endif %}
-      {% if site.resume_print_social_links %}
-      <section class="content-section print-only">
-        <header class="section-header">
-          <h2>Social Links</h2>
-        </header>
-        <div class="resume-item">
-        {% include print-social-links.html %}
         </div>
       </section>
       {% endif %}
