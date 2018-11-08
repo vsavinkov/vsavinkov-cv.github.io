@@ -5,6 +5,7 @@ sass:
   sass_dir: _sass
   style: compressed
 resume_avatar:                  "true"
+resume_avatar_path:             "images/avatar.jpg"
 resume_name:                    "Viacheslav Savinkov"
 resume_title:                   "QA Engineer // SDET"
 resume_header_contact_info:     "St. Petersburg, Russia // viacheslav@savinkov.me // 8(962)709-58-36"

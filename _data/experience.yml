@@ -6,7 +6,7 @@
   4-member QA team: 3 in USA and Slava in SPb. Business trips to headquarters in Mountain View, California.
   Participated in the following stages of development: test cases writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, defect verification. Both manual and automated regression testing.
   <ul class="resume-item-list">
-    <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard</li>
+    <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard, Artifactory</li>
     <li>Technologies: GIT, SQL, SVN, Java, Bash, Python, Jenkins CI, Docker, Kubernetes</li>
   </ul>'
 
@@ -14,9 +14,9 @@
   position: QA Engineer
   duration:  June, 2013 — March, 2016
   summary: 'Saint Petersburg, <a href="https://www.griddynamics.com/">griddynamics.com</a><br/>
-  Software Testing - Black box / White box / Gray box. Automation (FitNesse framework + Java + scripting). 15-member QA team, remote interaction with business analysts. Our team uses Agile methodology with 2-week iterations.<br/><br/>
+  Software Testing - Black box / White box / Gray box. Automation (FitNesse framework + Java + scripting). 15-member QA team, remote interaction with business analysts. Agile methodology with 2-week iterations.<br/>
   Participated in several business trips to California.<br/><br/>
-  Fully participated in each stage of testing cycle: requirements analysis, documentation review, test cases writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, defect verification. Rich experience with Continuous Integration process. Participated code and tests review process.
+  Fully participated in each stage of testing cycle: requirements analysis, documentation review, test cases writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, defect verification. Rich experience with Continuous Integration process. Participated in code and tests review process.
   <ul class="resume-item-list">
     <li>Software: Mingle, VersionOne, FitNesse, JIRA, Jenkins, IDEA, CodeCollab, ReviewBoard, Confluence, Splunk, Nexus</li>
     <li>Technologies: SVN, GIT+Gerrit, SQL, Java, Bash, Python, CI, Docker</li>
@@ -25,7 +25,7 @@
 
 - company: Motorola Solutions
   position: QA engineer
-  duration:   October, 2008 — June 2013
+  duration:   October, 2012 — June 2013
   summary: 'Saint Petersburg, <a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
   Responsibilities: Software Testing - Black box / White box / Gray box. Automation (C / C++, bash). Code coverage analysis (gcov/lcov). Teamwork, remote interaction with others. Setting up special equipment.<br/><br/>
   Participation in each stage of the testing cycle: requirements analysis, design and documentation review (SRS, ICD, MSC diagrams), development of test cases, implementation of test cases (automation), setting the test environment, testing (API, Stress, GUI, etc), bug reports issuing, interaction with developers, verification and validation.
@@ -40,13 +40,13 @@
   position: IT support technician
   duration: September 2011 — October 2012
   summary: 'Saint Petersburg, <a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
-  Technical support. Working in information systems, tickets processing.<br/><br/>
+  Technical support. Working in information systems, tickets processing.<br/>
   Participation in global infrastructure changes as the local side. Technical support (assets, equipment). Infrastructure support.'
 
 - company: Bercut
   position: Technical support engineer
   duration: September 2009 — September 2011
   summary: 'Saint Petersburg, <a href="http://bercut.com/">bercut.com</a><br/>
-  Responsibilities: Working in a specialized system for collecting statistics and its improvement. Processing tickets, answering phone calls, conducting audits at customer side. Writing statistic reports. Working in a group, management of the support team (6 people).<br/><br/>
-  Achievements: Created and implemented a system of automatic collection of statistics (Excel-based files and database queries - Oracle), which significantly reduced amount of routine work. Participated in the adaptation of new employees.<br/><br/>
+  Responsibilities: Working in the stats collecting system and its improvement. Processing tickets, handling calls, executing audits at customer side. Managing a 6-member team.<br/>
+  Achievements: Designed and implemented a system of automatic collection of statistics (.xls files / Oracle DB queries), which significantly reduced amount of routine work. Participated in the adaptation of new employees.<br/>
   Participated in the software deploying process on customer side.'
