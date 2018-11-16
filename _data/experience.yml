@@ -7,7 +7,7 @@
   Participated in the following stages of development: test cases writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, defect verification. Both manual and automated regression testing.
   <ul class="resume-item-list">
     <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard, Artifactory</li>
-    <li>Technologies: GIT, SQL, SVN, Java, Bash, Python, Jenkins CI, Docker, Kubernetes</li>
+    <li>Technologies: GIT, SQL, SVN, Java, Bash, Python, Jenkins CI, CDN, DNS Docker, Kubernetes</li>
   </ul>'
 
 - company: Grid Dynamics
