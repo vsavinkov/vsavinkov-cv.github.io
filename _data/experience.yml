@@ -6,8 +6,8 @@
   4-member QA team: 3 in USA and Slava in SPb. Business trips to headquarters in Mountain View, California.
   Participated in the following stages of development: test cases writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, defect verification. Both manual and automated regression testing.
   <ul class="resume-item-list">
-    <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard, Artifactory</li>
-    <li>Technologies: GIT, SQL, SVN, Java, Bash, Python, Jenkins CI, CDN, DNS Docker, Kubernetes</li>
+    <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard, Artifactory, Jenkins</li>
+    <li>Technologies: GIT, SQL, SVN, Java, Bash, Python, CDN, DNS, Docker, Kubernetes</li>
   </ul>'
 
 - company: Grid Dynamics
