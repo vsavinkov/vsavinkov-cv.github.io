@@ -1,5 +1,5 @@
 - skill: Software
-  description:  Jira • Confluence • Jenkins • Codecollab • ReviewBoard • FitNesse • Gerrit • IDEA • MS Excel • Gradle • Amazon EC2 • Google Cloud • Grafana
+  description:  As a user<br/> Confluence • Codecollab • ReviewBoard • Github/Gitlab • IDEA • MS Excel • Gradle. <br/>As an admin<br/> Jira • FitNesse • Amazon EC2 • Google Cloud • GKE • Jenkins • Grafana • Kibana
 
 - skill: Programming Languages
   description: Java • Python • Bash • SQL
@@ -8,11 +8,11 @@
   description: Native Russian • Fluent spoken and written English
 
 - skill: Technologies
-  description: Docker • Kubernetes • SVN • Git/Gerrit • Linux • MacOS
+  description: Docker • Kubernetes • SVN • Git • Linux • MacOS
 
 - skill: Testing
   description: 'Automated tests • White Box • Black Box <br/><br/>
   Experienced in full software testing cycle - from requirement analysis till verifying bugfixes. Test cases writing and implementation.'
 
 - skill: What I expect from employer
-  description: Opportunity for professional development and training, interesting projects and adequate management. Business trips opportunity would be a plus.
+  description: Opportunity for professional development and training. Interesting projects and adequate management. Business trips opportunity would be a plus.
