@@ -2,8 +2,9 @@
   position: QA Engineer (SDET)
   duration: March, 2016 — Present
   summary: 'Saint Petersburg, <a href="https://www.tango.me/">tango.me</a><br/>
-  Testing environments setup and support: local, Amazon, Google Cloud. Server components dockerization to avoid vendor-lock: moved the whole testing infrastructure to Kubernetes. Created deployment bot which serves requests to deploy/restart/change properties of microservices. Certifying components (pre-production approval). Writing tools for internal use. Testing: Black / White / Gray box. Automation (Python-based framework + scripting).<br/><br/>
-  4-member QA team: 3 in USA and Slava in SPb. Business trips to headquarters in Mountain View, California.
+  Testing environments setup and support: local, Amazon, Google Cloud. Server components dockerization: moved the whole testing infrastructure to Kubernetes.<br/><br/>
+  Created deployment bot which serves requests to deploy/restart/change properties of microservices. Certifying components (pre-production approval). Writing tools for internal use. Testing: Black / White / Gray box. Automation (Python-based framework + scripting).<br/><br/>
+  4-member QA team: 3 in USA and me in SPb. Business trips to headquarters in Mountain View, California.
   Participated in the following stages of development: test cases writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, defect verification. Both manual and automated regression testing.
   <ul class="resume-item-list">
     <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard/Codecollab, Artifactory, Grafana</li>
