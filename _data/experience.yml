@@ -2,7 +2,7 @@
   position: DevOps Engineer
   duration: Dec, 2020 — Present
   summary: 'Bay Area / Canada (remote), <a href="https://parsable.com/">parsable.com</a><br/>
-  Supporting and evolving the whole company infrastructure: k8s clusters, Kong and AWS routing, AWS and Azure services,  
+  Supporting and evolving company infrastructure: k8s clusters, Kong and AWS routing, AWS and Azure services.<br/><br/>
   Terraforming and supporting AWS infrastructure: Route53, S3, EC2s, DMS, MSK, RDS, networking, DocumentDB, ElastiCache, IAM.
   Terraforming and supporting Azure infrastructure: CosmosDB, Databricks, EventHubs, Azure DevOps.<br/><br/>
   Moved 100% of company backend from EC2 intances into k8s: established the process from the image build till production deploy.
@@ -13,7 +13,7 @@
     <li>Technologies: Kubernetes, Helm charts, GIT, SQL, Bash, Python, Docker, </li>
   </ul>'
 
-  - company: TangoMe (Messenger)
+- company: TangoMe (Messenger)
   position: QA Engineer (SDET)
   duration: March, 2016 — Dec, 2020
   summary: 'Saint Petersburg, <a href="https://www.tango.me/">tango.me</a><br/>
