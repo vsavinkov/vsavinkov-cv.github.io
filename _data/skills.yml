@@ -1,5 +1,5 @@
 - skill: Software
-  description:  As a user<br/> Confluence • Codecollab • ReviewBoard • Github/Gitlab • IDEA • MS Excel • Gradle <br/>As an admin<br/> Jira • FitNesse • Amazon EC2 • Google Cloud • GKE • Jenkins • Grafana • Kibana
+  description: Teraform/Terragrunt • Github/Gitlab • IDEA • MS Excel • Gradle • Helm • Datadog • Jenkins • AWS • Jira • FitNesse • Google Cloud • GKE • Grafana • Kibana
 
 - skill: Programming Languages
   description: Java • Python • Bash • SQL
@@ -8,11 +8,14 @@
   description: Native Russian • Fluent spoken and written English
 
 - skill: Technologies
-  description: Docker • Kubernetes • SVN • Git • Linux • MacOS • RegExp
+  description: Docker • Kubernetes • Git • Linux • MacOS • RegExp
 
 - skill: Testing
   description: 'Automated tests • White Box • Black Box <br/><br/>
   Experienced in full software testing cycle - from requirement analysis till verifying bugfixes. Test cases writing and implementation.'
+  
+- skill: DevOps
+  description: Experienced in terraforming, dockerizing, monitoring, supporting existing infrastructire and evolving new.
 
 - skill: What I expect from employer
   description: Opportunity for professional development and training. Interesting projects and adequate management. Business trips opportunity would be a plus.
