@@ -1,5 +1,5 @@
 - company: Parsable (Connected Worker)
-  position: DevOps Engineer
+  position: DevOps // SRE
   duration: Dec, 2020 — Present
   summary: 'Bay Area / Canada, <a href="https://parsable.com/">parsable.com</a><br/>
   Supporting and evolving company infrastructure: k8s clusters, Kong and AWS routing, AWS and Azure services.<br/><br/>
@@ -14,9 +14,9 @@
   </ul>'
 
 - company: TangoMe (Messenger)
-  position: QA Engineer (SDET)
+  position: SDET // DevOps // SRE
   duration: March, 2016 — Dec, 2020
-  summary: 'Saint Petersburg, <a href="https://www.tango.me/">tango.me</a><br/>
+  summary: '<a href="https://www.tango.me/">tango.me</a><br/>
   Testing environments setup and support: local, Amazon, Google Cloud. Server components dockerization: moved the whole testing infrastructure to Kubernetes.<br/><br/>
   Created deployment bot which serves requests to deploy/restart/change properties of microservices. Certifying components (pre-production approval). Writing tools for internal use. Testing: Black / White / Gray box. Automation (Python-based framework + scripting).<br/><br/>
   4-member QA team: 3 in USA and me in SPb. Business trips to headquarters in Mountain View, California.
@@ -28,9 +28,9 @@
   Trained and guided newcomers, involved in the interview process.'
 
 - company: Grid Dynamics (E-commerce)
-  position: QA Engineer
+  position: Automation QA Engineer // SDET
   duration:  June, 2013 — March, 2016
-  summary: 'Saint Petersburg, <a href="https://www.griddynamics.com/">griddynamics.com</a><br/>
+  summary: '<a href="https://www.griddynamics.com/">griddynamics.com</a><br/>
   Software Testing - Black box / White box / Gray box. Automation (FitNesse framework + Java + scripting). 15-member QA team, remote interaction with business analysts. Agile methodology with 2-week iterations.<br/>
   Participated in several business trips to California.<br/><br/>
   Fully participated in each stage of testing cycle: requirements analysis, documentation review, test cases writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, defect verification. Rich experience with Continuous Integration process. Participated in code and tests review process.
@@ -40,9 +40,9 @@
   </ul>'
 
 - company: Motorola Solutions (Software Development)
-  position: QA engineer
+  position: Automation QA Engineer
   duration: October, 2012 — June 2013
-  summary: 'Saint Petersburg, <a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
+  summary: '<a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
   Responsibilities: Software Testing - Black box / White box / Gray box. Automation (C / C++, bash). Code coverage analysis (gcov/lcov). Teamwork, remote interaction with others. Setting up special equipment.<br/><br/>
   Participation in each stage of the testing cycle: requirements analysis, design and documentation review (SRS, ICD, MSC diagrams), development of test cases, implementation of test cases (automation), setting the test environment, testing (API, Stress, GUI, etc), bug reports issuing, interaction with developers, verification and validation.
   <ul class="resume-item-list">
@@ -55,14 +55,6 @@
 - company: Motorola Solutions (Software Development)
   position: IT support technician
   duration: September 2011 — October 2012
-  summary: 'Saint Petersburg, <a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
+  summary: '<a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
   Technical support. Working in information systems, tickets processing.<br/>
   Participation in global infrastructure changes as the local side. Technical support (assets, equipment). Infrastructure support.'
-
-- company: Bercut (Software Development / Integration)
-  position: Technical support engineer
-  duration: September 2009 — September 2011
-  summary: 'Saint Petersburg, <a href="http://bercut.com/">bercut.com</a><br/>
-  Responsibilities: Working in the stats collecting system and its improvement. Processing tickets, handling calls, executing audits at customer side. Managing a 6-member team.<br/>
-  Achievements: Designed and implemented a system of automatic collection of statistics (.xls files / Oracle DB queries), which significantly reduced amount of routine work. Participated in the adaptation of new employees.<br/>
-  Participated in the software deploying process on customer side.'
