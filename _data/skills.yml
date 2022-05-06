@@ -5,18 +5,17 @@
   description: Python • Bash • Java • SQL • Groovy
 
 - skill: Languages
-  description: Native Russian • Fluent spoken and written English
+  description: Native Russian • Fluent in spoken and written English
 
 - skill: Technologies
   description: Docker • k8s • Git • Linux • MacOS • RegExp
   
 - skill: DevOps
-  description: Experienced in terraforming, dockerizing, monitoring, supporting existing infrastructire and evolving new.
+  description: Experienced in terraforming, dockerizing, monitoring, supporting existing infrastructure, and evolving new.
 
 - skill: Testing
   description: 'Automated tests • White Box • Black Box <br/><br/>
-  Experienced in full software testing cycle - from requirement analysis till verifying bugfixes. Test cases writing and implementation.'
+  Experienced in full software testing cycle - from requirement analysis to verifying bug fixes. Test cases writing and implementation.'
 
-- skill: What I expect from employer
-  description: Opportunity for professional development and training, interesting projects and adequate management.
-  
+- skill: What I expect from the employer
+  description: Opportunity for professional development and training, interesting projects, and adequate management.
