@@ -2,7 +2,7 @@
   description: I am a seasoned DevOps professional with a proven track record in supporting and evolving cutting-edge infrastructures. Experienced in reducing costs, implementing new tools, and researching/installing external solutions. Skilled in Terraform, Kubernetes, AWS, Git, and more. Dedicated to fostering a collaborative and efficient work environment.
 
 - skill: Software
-  description: Teraform/Terragrunt • Github/Gitlab • IDEA • MS Excel • Gradle • Helm • Datadog • Jenkins • AWS • Jira • FitNesse • Google Cloud • GKE • Grafana • ELK stack
+  description: Teraform/Terragrunt • Github/Gitlab • Azure DevOps • ArgoCD/Flux • MLFlow • Vault/ExternalSecrets/SealedSecrets • IDEA • Gradle • Helm • Datadog • Jenkins • AWS • Google Cloud • Grafana stack • ELK stack • Postgres • Redis • MongoDB
 
 - skill: Programming Languages
   description: Python • Bash • Java • SQL • Groovy
@@ -11,7 +11,7 @@
   description: Native Russian • Fluent in spoken and written English
 
 - skill: Technologies
-  description: Docker • k8s • Git • Linux • MacOS • RegExp
+  description: Docker • Kubernetes • Git • Linux Administration • RegExp • Chatops • Microservices
   
 - skill: DevOps // SRE
   description: Experienced in terraforming, dockerizing, monitoring, supporting existing infrastructure, and evolving new.
