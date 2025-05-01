@@ -1,29 +1,30 @@
 - company: Behavox (B2B SaaS)
-  position: Senior DevOps Engineer
+  position: Senior MLOps Engineer
   duration: Aug 2022 — Present
-  summary: 'Canada, <a href="https://www.behavox.com/">behavox.com</a><br/>
+  summary: '<a href="https://www.behavox.com/">behavox.com</a><br/>
   Supporting and evolving the ML infrastructure: k8s clusters, AWS services, Terraform repos.<br/><br/>
-  Designed and implemented ChatOps bot service which provides the ability to interact with ML infrastructure via Slack bot.<br/><br/>
-  Designed and implemented ml orchestrator service, improving the deployment process of ML models and reducing the infrastructure costs by 4 times.<br/><br/>
+  Designed and implemented ChatOps bot service which provides the ability to interact with ML infrastructure via Slack.<br/><br/>
+  Designed and implemented ml orchestrator service, improving the deployment process of ML models and reducing the infrastructure costs by 75%.<br/><br/>
   Designed several production-grade services for the company.<br/><br/>
   Being the only Senior DevOps in the company, mentoring other team members, providing technical leadership and the direction of the ML infrastructure.<br/><br/>
   Making technical decisions within the team: choosing between in-house and 3rd party solutions, providing reasoning and justifications.<br/><br/>
   Reducing costs, implementing new tools, researching and installing external solutions.
   <ul class="resume-item-list">
-    <li>Software: AWS, Gitlab CI, Terraform, Vault, Prometheus, Sonar, JIRA, Confluence, IDEA</li>
-    <li>Technologies: Kubernetes, Helm charts, GIT, Bash, Python</li>
+    <li>Software: AWS, GCP, Gitlab, Terraform/Terragrunt, Hashicorp stack, Grafana stack, Sonar, Claude Code, OpenAI, Gemini</li>
+    <li>Technologies: Kubernetes, Chatops, Helm + ArgoCD, Bash, Python</li>
   </ul>'
 
 - company: Parsable (B2B SaaS)
   position: Senior DevOps Engineer
   duration: Dec 2020 — Aug 2022
-  summary: 'Bay Area / Canada, <a href="https://parsable.com/">parsable.com</a><br/>
+  summary: '<a href="https://parsable.com/">parsable.com</a><br/>
   Supported and evolved company infrastructure, including Kubernetes clusters, Kong, AWS routing, and AWS/Azure services.<br/><br/>
   Terraformed and supported AWS infrastructure: Route53, S3, EC2s, DMS, MSK, RDS, EKS, ECS, networking, DocumentDB, ElastiCache, IAM.
   Terraformed and supported Azure infrastructure: CosmosDB, Databricks, EventHubs, Azure DevOps.<br/><br/>
-  Moved 100% of the company backend from EC2 instances into k8s: established the process from the image build to production deployment.
-  Implemented Instant Environments service, which allows for the creation of a ready-to-use development environment in one click.<br/><br/>
-  Fully remote team: 5 in USA/Canada and I in SPb.
+  Moved 100% of the company backend from EC2 instances into k8s: established the process from the image build to production deployment, 
+  reducing monthly cloud spend by 75% and enabling zero-downtime deployments.<br/><br/>
+  Implemented Instant Environments service, which allows for the creation of a ready-to-use development environment in one click,
+  reducing time to set up a dedicated testing environment by 95%.<br/><br/>
   <ul class="resume-item-list">
     <li>Software: AWS, Spinnaker, Terraform / Terragrunt, Jenkins, Vault, Datadog, Kong, GitHub, Pganalyze, Atlantis, Sonar, JIRA, Confluence, Okta, Pritunl, IDEA</li>
     <li>Technologies: Kubernetes, Helm charts, GIT, SQL, Bash, Python, Docker</li>
@@ -35,9 +36,8 @@
   summary: '<a href="https://www.tango.me/">tango.me</a><br/>
   Testing environments setup and support: local, Amazon, Google Cloud. Server components dockerization: moved the whole testing infrastructure to Kubernetes.<br/><br/>
   Created a deployment bot which serves requests to deploy/restart/change properties of microservices. Certifying components (pre-production approval). Writing tools for internal use. Testing: Black / White / Gray box. Automation (Python-based framework + scripting).<br/><br/>
-  4-member QA team: 3 in USA and I in SPb. Business trips to headquarters in Mountain View, California.
+  4-member QA team: 3 in USA and me in Europe. Business trips to headquarters in Mountain View, California.
   Participated in the following stages of development: test case writing, automation, setting up test environments (local / cloud), testing, bug reporting, interacting with developers, and defect verification. Both manual and automated regression testing.
-
   <ul class="resume-item-list">
     <li>Software: JIRA, Confluence, Jenkins, IDEA, ReviewBoard/Codecollab, Artifactory, Grafana</li>
     <li>Technologies: GIT, SVN, SQL, Java, Bash, Python, CDN, DNS, Docker, Kubernetes</li>
@@ -60,11 +60,10 @@
   position: Automation QA Engineer
   duration: Sep 2011 — Jun 2013
   summary: '<a href="https://www.motorolasolutions.com/">motorolasolutions.com</a><br/>
-  Responsibilities: Software Testing - Black box / White box / Gray box. Automation (C / C++, bash). Code coverage analysis (gcov/lcov). Teamwork, remote interaction with others. Setting up special equipment.<br/><br/>
-  Participation in each stage of the testing cycle: requirements analysis, design, and documentation review (SRS, ICD, MSC diagrams), development of test cases, implementation of test cases (automation), setting up the test environment, testing (API, Stress, GUI, etc), bug reports issuing, interaction with developers, verification and validation.
+  Responsibilities: Software Testing - Black box / White box / Gray box. Automation (C / C++, bash). Code coverage analysis (gcov/lcov). Participated in each stage of the testing cycle: requirements analysis, design, and documentation review (SRS, ICD, MSC diagrams), development of test cases, implementation of test cases (automation), setting up the test environment, testing (API, Stress, GUI, etc), bug reports issuing, interaction with developers, verification and validation.
   <ul class="resume-item-list">
     <li>Software: HP Quality Center, IBM Rational (ClearQuest, ClearCase), MS Office</li>
     <li>The last project: network service (under Linux), which performs network connection switching. White & Gray box testing</li>
     <li>Previous project: similar service under Windows / Windows Mobile / Android (Black box testing)</li>
   </ul>
-  Achievements: Wrote the whole set of tests (API) and fully automated it. Showed a good performance and productivity.'
+  Achievements: Wrote the whole set of tests (API) and fully automated it. Showed an excellent performance and productivity.'
