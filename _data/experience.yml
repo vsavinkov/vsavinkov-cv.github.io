@@ -1,20 +1,20 @@
-- company: Behavox LTD
+- company: Behavox (B2B SaaS)
   position: Senior DevOps Engineer
   duration: Aug 2022 — Present
   summary: 'Canada, <a href="https://www.behavox.com/">behavox.com</a><br/>
-  Supporting and evolving the company\'s Machine Learning infrastructure: k8s clusters, AWS services, Terraform repos.<br/><br/>
+  Supporting and evolving the ML infrastructure: k8s clusters, AWS services, Terraform repos.<br/><br/>
   Designed and implemented ChatOps bot service which provides the ability to interact with ML infrastructure via Slack bot.<br/><br/>
   Designed and implemented ml orchestrator service, improving the deployment process of ML models and reducing the infrastructure costs by 4 times.<br/><br/>
   Designed several production-grade services for the company.<br/><br/>
   Being the only Senior DevOps in the company, mentoring other team members, providing technical leadership and the direction of the ML infrastructure.<br/><br/>
-  Making technical desitions within the team: choosing between in-house and 3rd party solutions, providing reasoning and justifications.<br/><br/>
+  Making technical decisions within the team: choosing between in-house and 3rd party solutions, providing reasoning and justifications.<br/><br/>
   Reducing costs, implementing new tools, researching and installing external solutions.
   <ul class="resume-item-list">
     <li>Software: AWS, Gitlab CI, Terraform, Vault, Prometheus, Sonar, JIRA, Confluence, IDEA</li>
     <li>Technologies: Kubernetes, Helm charts, GIT, Bash, Python</li>
   </ul>'
 
-- company: Parsable
+- company: Parsable (B2B SaaS)
   position: Senior DevOps Engineer
   duration: Dec 2020 — Aug 2022
   summary: 'Bay Area / Canada, <a href="https://parsable.com/">parsable.com</a><br/>
@@ -29,7 +29,7 @@
     <li>Technologies: Kubernetes, Helm charts, GIT, SQL, Bash, Python, Docker</li>
   </ul>'
 
-- company: TangoMe LLC
+- company: TangoMe (Live Streaming)
   position: Software Development Engineer in Test
   duration: Mar 2016 — Dec 2020
   summary: '<a href="https://www.tango.me/">tango.me</a><br/>
